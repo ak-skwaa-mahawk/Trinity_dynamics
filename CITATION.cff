@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "Carroll"
+    given-names: "John B."
+    affiliation: "Two Mile Solutions LLC"
+title: "Trinity Dynamics: κ/π Stabilization Principle"
+version: "1.0.0"
+date-released: "2025-10-01"
+url: "https://github.com/<your-username>/Trinity_dynamics"
+license: "MIT (code), CC BY 4.0 (docs)"
