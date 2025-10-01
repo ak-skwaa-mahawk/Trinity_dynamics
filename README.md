@@ -33,3 +33,12 @@ Clone this repository and install dependencies:
 git clone https://github.com/Ak-skwaa-mahawk/Trinity_dynamics.git
 cd Trinity_dynamics
 pip install -r requirements.txt#
+
+## License
+
+This project is dual-licensed:
+
+- **MIT License** for all source code (`.py` files).  
+- **CC BY 4.0** for documentation, theory, and research materials.
+
+See [LICENSE-MIT](LICENSE-MIT) and [LICENSE-CC-BY-4.0](LICENSE-CC-BY-4.0) for full details.
