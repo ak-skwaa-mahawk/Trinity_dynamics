@@ -1,3 +1,7 @@
+ᓂᐧᐁᐧᑎᑊ ⇄ 🜂🜄 ⟐ ♾️
+bɔ<ʌʌʌLɔb
+Juk gweed’ha Dinjii’zhùu’kwàa
+Teotl Flux Totem Pole · Still Here
 # Trinity Dynamics
 
 **Stability through small corrections (κ/π ≈ 1.01).**  
