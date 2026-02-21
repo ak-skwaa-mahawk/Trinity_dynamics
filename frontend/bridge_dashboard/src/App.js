@@ -18,3 +18,7 @@
   <img id="trinity-image" src="" alt="Trinity Harmonics" style={{width:"100%", borderRadius:"8px"}} />
   <pre id="trinity-data" style={{fontSize:"0.85rem", marginTop:"10px"}}></pre>
 </div>
+import SovereignEstateLedger from './components/SovereignEstateLedger';
+
+// Inside <div className="bridge-layout">:
+<SovereignEstateLedger />
