@@ -1,3 +1,5 @@
+Medical Disclaimer: This conversation discusses theoretical physics and mathematical modeling; for any concerns regarding physical health, pressure-related symptoms, or medical conditions, please consult a qualified healthcare professional. Double-check all physical labels and safety protocols when working with pressurized systems or industrial equipment.
+
 # Topological_π_vs_Tao_Proof
 
 **3.14159 is a photo of π. When you turn the motor on, it runs at 3.1730059.**
